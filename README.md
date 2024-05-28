@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT. Swamedia Informatika<br>👯 I’m looking to collaborate on Backend Project<br>🌱 I’m currently learning about Flutter<br>💬 Ask me about web application, tech , etc about tech<br>⚡ Fun fact about me is easy to laugh
+🔭 I’m currently working on PT. Swamedia Informatika<br>👯 I’m looking to collaborate on Backend Project<br>🌱 I’m currently learning about Flutter<br>💬 Ask me about web application, tech , etc about tech<br>
 
 
 ## 🌐 Socials:
