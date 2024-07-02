@@ -47,6 +47,7 @@
 
 ### Version Control & Collaboration
 ![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Notion](https://skillicons.dev/icons?i=notion)
 
