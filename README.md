@@ -32,6 +32,8 @@
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJS](https://skillicons.dev/icons?i=express)
 ![CodeIgniter](https://skillicons.dev/icons?i=codeigniter)
+![NestJs](https://skillicons.dev/icons?i=nestjs)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ### DevOps & Deployment
 ![Heroku](https://skillicons.dev/icons?i=heroku)
