@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 🔭 I’m currently working at PT. Swamedia Informatika
 - 👯 I’m looking to collaborate on Backend Projects
-- 🌱 I’m currently learning game development using godot engine
+- 🌱 I’m currently learning game development using unity engine
 - 💬 Ask me about web applications, tech, and more
 
 ## 🌐 Socials:
