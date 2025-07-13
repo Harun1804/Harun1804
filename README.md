@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 🔭 I’m currently working at PT. Swamedia Informatika
 - 👯 I’m looking to collaborate on Backend Projects
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning game development using godot engine
 - 💬 Ask me about web applications, tech, and more
 
 ## 🌐 Socials:
@@ -31,7 +31,7 @@
 ### Backend Development
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJS](https://skillicons.dev/icons?i=express)
-![CodeIgniter](https://skillicons.dev/icons?i=codeigniter)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 ![NestJs](https://skillicons.dev/icons?i=nestjs)
 ![Spring](https://skillicons.dev/icons?i=spring)
 
