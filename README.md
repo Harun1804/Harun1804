@@ -20,6 +20,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=py)
 ![C#](https://skillicons.dev/icons?i=cs)
+![Java](https://skillicons.dev/icons?i=java)
 
 ### Frontend Development
 ![Angular](https://skillicons.dev/icons?i=angular)
